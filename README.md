@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on games, passion projects, and creative writing projects.
 - 📫 How to reach me:
     - Mastodon: https://mastodon.design/@juniejuniejune
-    - Instagram: https://www.instagram.com/juniejuniejune/ https://www.instagram.com/whichjuneiswitchjune/
     - Email: juniejuniejune@pm.me
+- Look at my shit:
+    - Instagram: https://www.instagram.com/juniejuniejune/ https://www.instagram.com/whichjuneiswitchjune/
+    - Website: http://jlowatari.com/
 
 <!---
 juniejuniejune/juniejuniejune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
